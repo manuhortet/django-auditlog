@@ -1,8 +1,12 @@
 django-auditlog
 ===============
 
-[![Build Status](https://travis-ci.org/jjkester/django-auditlog.svg?branch=master)](https://travis-ci.org/jjkester/django-auditlog)
+[![Jazzband](https://jazzband.co/static/img/badge.svg)](https://jazzband.co/)
+[![Build Status](https://github.com/jazzband/django-auditlog/workflows/Test/badge.svg)](https://github.com/jazzband/django-auditlog/actions)
 [![Docs](https://readthedocs.org/projects/django-auditlog/badge/?version=latest)](http://django-auditlog.readthedocs.org/en/latest/?badge=latest)
+[![codecov](https://codecov.io/gh/jazzband/django-auditlog/branch/master/graph/badge.svg)](https://codecov.io/gh/jazzband/django-auditlog)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/django-auditlog.svg)](https://pypi.python.org/pypi/django-auditlog)
+[![Supported Django versions](https://img.shields.io/pypi/djversions/django-auditlog.svg)](https://pypi.python.org/pypi/django-auditlog)
 
 **Please remember that this app is still in development.**
 **Test this app before deploying it in production environments.**
@@ -38,4 +42,3 @@ Releases
 5. Pull request `stable` -> `master`. Now everything is back in sync.
 
 Opening a pull request from `master` directly to `stable` is discouraged as `master` may be updated while the PR is open, thus changing the contents of the release.
-
